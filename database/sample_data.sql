@@ -1,0 +1,1 @@
+INSERT INTO donor (name, blood_type) VALUES ('John Doe', 'A+');
